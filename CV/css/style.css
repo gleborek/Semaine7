@@ -22,6 +22,10 @@ p{
     text-align:justify;
 }
 
+.container-fluid
+{
+    opacity: 0.5; filter: alpha(opacity=50);
+}
 .conteneur{
     margin:15px;
     padding:10px;
